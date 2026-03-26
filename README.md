@@ -49,6 +49,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Alley](https://alley.co) - USA, Canada, Western Europe
 - [AllyDVM](https://www.allydvm.com) - USA
 - [AlphaSights](https://engineering.alphasights.com) - USA, UK, (EST, GMT)
+- OK - [Jobz.pk](https://www.jobz.pk/) - Jobs in Pakistan
 - [Amaro](https://about.amaro.com/jobs)
 - [Amazon Jobs Virtual Locations](https://www.amazon.jobs/en/locations/virtual-locations) - Worldwide
 - [Amazon Web Service](https://www.amazon.jobs/en)
