@@ -569,6 +569,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Jobs Today World](https://www.jobstoday.world/) - WorldWide
 - [Jobs Zalando](https://jobs.zalando.co) - Europe
 - [Jobs in Brussels](http://www.jobsinbrussels.com) - Belgium
+- [Jobz.pk]([https://www.animalz.co](https://www.jobz.pk/) - Pakistan
 - [Jobs in Copenhagen](http://www.jobsincopenhagen.com) - Denmark
 - [Jobs to Click](http://www.jobstoclick.com) - EUA
 - [Jobs](http://www.jobs.ca) - Canada
