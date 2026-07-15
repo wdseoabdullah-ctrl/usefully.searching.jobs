@@ -575,6 +575,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Jobs](http://www.jobs.de) - Germany
 - [Jobshark](http://www.jobshark.com) - Canada
 - [Jolly Good Code](https://www.jollygoodcode.com) - Worldwide
+- [Jobz.pk](https://www.jobz.pk/) - Pakistan
 - [Jooble](http://jooble-de.com) - Germany
 - [Journy.io](https://www.journy.io) - Europe
 - [Joyent](https://www.joyent.com/careers) - USA, UK, Canada, SK, SG
